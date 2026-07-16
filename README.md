@@ -45,7 +45,7 @@ An ESP32-based IoT sound monitoring system that detects sound events using a sou
 
 ## 📷 Prototype
 
-![image alt]()
+![image alt](https://github.com/jhm-lgtm/IoT-Based-Sound-Sensor-Monitoring-System/blob/9f6a4d6b949a6cf4154d9ad17d699ccf57b623d4/Gemini_Generated_Image_14koyy14koyy14ko.png)
 
 ---
 
