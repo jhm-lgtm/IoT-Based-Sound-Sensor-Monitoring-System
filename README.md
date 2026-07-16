@@ -20,6 +20,7 @@ An ESP32-based IoT sound monitoring system that detects sound events using a sou
 - C++
 
 
+
   ##  Pin Connections
 
 | Component | ESP32 Pin |
@@ -31,6 +32,8 @@ An ESP32-based IoT sound monitoring system that detects sound events using a sou
 
 > Change the GPIO numbers according to your actual wiring.
 
+
+
 ## Working Principle
 
 1. ESP32 reads sound intensity from the sound sensor.
@@ -39,11 +42,13 @@ An ESP32-based IoT sound monitoring system that detects sound events using a sou
 4. Users can monitor sound levels remotely through a dashboard.
 
 
+
 ## 📷 Prototype
 
 ![image alt]()
 
 ---
+
 
 ##  Applications
 
@@ -54,6 +59,7 @@ An ESP32-based IoT sound monitoring system that detects sound events using a sou
 - Office spaces
 - Libraries
 - Home automation
+
 
 
 ##  Future Improvements
