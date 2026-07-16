@@ -19,7 +19,8 @@ An ESP32-based IoT sound monitoring system that detects sound events using a sou
 - Telegram 
 - C++
 
-  ## 📌 Pin Connections
+
+  ##  Pin Connections
 
 | Component | ESP32 Pin |
 |-----------|-----------|
